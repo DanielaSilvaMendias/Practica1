@@ -19,7 +19,8 @@ public class Main {
         int opcion = opciones.nextInt();*/
         int opcion;
         do {
-            System.out.println("Elija una opcion: " +
+            System.out.println("Hola soy daniela" +
+                    "Elija una opcion: " +
                     "\n1) Agregar articulo " +
                     "\n2) Editar articulo " +
                     "\n3) Buscar un artículo por código de barras " +
